@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/start/start",
+    "pages/my_height/my_height"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "white",
+    "navigationBarTitleText": "自动身高测量仪",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "debug": true
+}
