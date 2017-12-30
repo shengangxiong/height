@@ -1,0 +1,7 @@
+<!--pages/my_height/my_height.wxml-->
+<button class="btn1" bindtap="getDataFromOneNet">
+我的身高为：</button>
+
+<canvas class = "canvas" id="chart3"
+canvas-id="tempe"></canvas>
+<view class="height">{{height}}cm</view>

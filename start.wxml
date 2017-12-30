@@ -1,0 +1,5 @@
+<!--start.wxml-->
+
+<button class="btn1" bindtap="getDataFromOneNet">
+查看我的身高</button>
+
